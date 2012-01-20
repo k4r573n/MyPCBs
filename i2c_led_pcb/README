@@ -1,0 +1,15 @@
+***********************
+**    I²C LED PCB    **
+***********************
+by me <k.hinz@tu-bs.de>
+
+this Board is designed to fit on an INGA 
+http://www.ibr.cs.tu-bs.de/trac/inga/wiki/WikiStart
+
+but it works with every other project :)
+just use the I²C bus to set the 5 RGB LEDs to
+on/off/PWM1/PWM2
+
+enjoy it
+
+
